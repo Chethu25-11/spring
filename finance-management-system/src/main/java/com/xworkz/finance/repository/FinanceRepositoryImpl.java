@@ -1,11 +1,12 @@
 package com.xworkz.finance.repository;
 
 import com.xworkz.finance.entity.FinanceEntity;
+import org.springframework.stereotype.Repository;
 
 import javax.persistence.*;
 import java.util.Collections;
 import java.util.List;
-
+@Repository
 public class FinanceRepositoryImpl implements FinanceRepository {
     static EntityManagerFactory emf = Persistence.createEntityManagerFactory("anything");
 

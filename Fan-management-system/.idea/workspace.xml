@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae4ff9ed-0e4d-40ef-9ec4-ef062a3b0b31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xworkz/fan/config/FanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xworkz/fan/config/FanWebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xworkz/fan/controller/FanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xworkz/fan/repo/FanRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xworkz/fan/service/FanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tv-management-system/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finance-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/jaspic-providers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/jaspic-providers.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/tomcat-users.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/.smarttomcat/network-management-system/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/java/com/xworkz/network/config/NetworkConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/java/com/xworkz/network/config/NetworkWebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/java/com/xworkz/network/controller/NetworkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/java/com/xworkz/network/repo/NetworkRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/java/com/xworkz/network/service/NetworkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network-management-system/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online-payment-transaction-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rent-management-system/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-management-system/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/jaspic-providers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/jaspic-providers.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/tomcat-users.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/.smarttomcat/wifi-management-system/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/java/com/xworkz/wifi/config/WifiWebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/java/com/xworkz/wifi/config/wifiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/java/com/xworkz/wifi/controller/WifiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/java/com/xworkz/wifi/repo/WifiRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/java/com/xworkz/wifi/service/WifiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wifi-management-system/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home-management-application/src/main/java/com/xworkz/home/buildings/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home-management-application/src/main/java/com/xworkz/home/buildings/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home-management-application/src/main/java/com/xworkz/home/runner/HomeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Home-management-application/src/main/java/com/xworkz/home/runner/HomeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finance-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../finance-management-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/repository/FinanceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/repository/FinanceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/repository/FinanceRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/repository/FinanceRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/service/FinanceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/service/FinanceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/service/FinanceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finance-management-system/src/main/java/com/xworkz/finance/service/FinanceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/configuration/ProductConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/configuration/ProductConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/entity/BookProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/entity/BookProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/runner/ProductRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-inventory-system/src/main/java/com/xworkz/product/runner/ProductRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="39RCW4v8VrnqgVtEOhLSCVvPskj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae4ff9ed-0e4d-40ef-9ec4-ef062a3b0b31" name="Changes" comment="" />
+      <created>1770649526674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770649526674</updated>
+    </task>
+    <servers />
+  </component>
+</project>

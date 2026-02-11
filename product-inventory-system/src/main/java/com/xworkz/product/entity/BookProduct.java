@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class BookProduct {
-    @Autowired
+   @Autowired
 public BookProduct BookProduct;
 
 public void write(){
@@ -18,4 +18,5 @@ public void read(){
 public void getAuthor(){
     System.out.println("BookProduct is using for Author");
 }
+
 }
